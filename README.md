@@ -1,4 +1,4 @@
-FirstByte Website
+# FirstByte Website 2023
 This project is the initial source code for the FirstByte website, a Northeastern's organization website built with React. It features a modern design with responsive components and interactive elements.
 
 <img width="1468" alt="Screenshot 2024-12-18 at 11 35 20 AM" src="https://github.com/user-attachments/assets/c47e480c-a92c-4bae-a1c5-9ef336ce79b8" />
