@@ -1,3 +1,13 @@
+FirstByte Website
+This project is the initial source code for the FirstByte website, a Northeastern's organization website built with React. It features a modern design with responsive components and interactive elements.
+
+<img width="1468" alt="Screenshot 2024-12-18 at 11 35 20 AM" src="https://github.com/user-attachments/assets/c47e480c-a92c-4bae-a1c5-9ef336ce79b8" />
+<img width="1470" alt="Screenshot 2024-12-18 at 11 35 28 AM" src="https://github.com/user-attachments/assets/aa4260e6-eaec-474c-96b9-5c889a57878f" />
+<img width="1469" alt="Screenshot 2024-12-18 at 11 35 35 AM" src="https://github.com/user-attachments/assets/4285c00d-73b5-4c46-a389-cd2f1dcfe418" />
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
